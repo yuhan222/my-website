@@ -48,7 +48,7 @@
 
 <h2><strong>期末專題</strong></h2> 
 
-專題名稱：MANI FILTER
+<strong>專題名稱：MANI FILTER</strong>
 
 組員：施樂琦41371122H、洪于涵41371223H
 
