@@ -45,3 +45,15 @@
 <a href='https://postimg.cc/3ktNfJvr' target='_blank'><img src='https://i.postimg.cc/3ktNfJvr/2025-10-16-175857.png' border='0' alt='2025-10-16-175857'/></a>
 
 [圖片7](https://i.postimg.cc/BQ0MrnHJ/2025-10-16-175007.png)
+
+<h2><strong>期末專題</strong></h2> 
+
+專題名稱：MANI FILTER
+
+組員：施樂琦41371122H、洪于涵41371223H
+
+線上網站網址：https://41371122h-lichi.github.io/MANI-filter/MANIfilter
+
+Youtube影片連結
+
+專題程式碼 GitHub Repo 連結
