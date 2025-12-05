@@ -54,6 +54,6 @@
 
 線上網站網址：https://41371122h-lichi.github.io/MANI-filter/MANIfilter
 
-Youtube影片連結
+Youtube影片連結：https://www.youtube.com/watch?v=O4NI8JTTYKE
 
 專題程式碼 GitHub Repo 連結：https://github.com/yuhan222/anime-filter
